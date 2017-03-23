@@ -1,7 +1,6 @@
-# HoL for DevCon School: Modern Mobile & Web Development
+# DevCon School: Modern Mobile & Web Development
 
-Практический обучающий контент для школы о современных методологиях и инструментах реализации мобильных и веб-проектов
-
+Практический обучающий контент для самостоятельного выполнения
 *24-26 марта 2017 года, Москва*
 
 ## Современный бэкэнд приложения
@@ -9,6 +8,7 @@
 Контейнеры и микросервисы:
 * [Работаем с Docker в Azure](https://github.com/azuredk/docker-on-azure-hol/)
 * [Развертывание и работа с Docker-контейнерами при помощи Azure Container Service](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Open%20Dev%20Framework/Docker/Session%202%20-%20Hands%20On)
+* [Создание первого микросервисного приложения с Azure Service Fabric](https://github.com/AzureActivationDay/DevCamp/tree/master/HOL/service-fabric)
 
 PaaS и бессерверная архитектура:
 * [Размещаем веб-сайт на Azure Web App (PHP + MySQL)](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Cloud%20Computing/Azure%20Web%20Apps/Session%202%20-%20Hands%20On)
@@ -20,11 +20,17 @@ PaaS и бессерверная архитектура:
     * [Azure DocumentDB](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20DocumentDB/Session%202%20-%20Hands%20On))
     * [Azure SQL Storage](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20SQL%20Database/Session%202%20-%20Hands%20On)
 
-Тестирование и мониторинг приложений: 
-
+DevOps, тестирование и мониторинг приложений: 
+* [DevOps c VSTS, Jenkins и Docker](https://github.com/msdevno/hol-oss-devops)
+* Мониторинг приложений с Application Insights
+    * [ASP.NET](https://github.com/Microsoft/azure-docs/blob/master/articles/application-insights/app-insights-asp-net.md) 
+    * [Java](https://github.com/Microsoft/azure-docs/blob/master/articles/application-insights/app-insights-java-get-started.md)
+    * [Docker](https://github.com/Microsoft/azure-docs/blob/master/articles/application-insights/app-insights-docker.md)
+    * [WebPage](https://github.com/Microsoft/azure-docs/blob/master/articles/application-insights/app-insights-javascript.md)
+    * [ЕЩЕ](https://docs.microsoft.com/en-us/azure/application-insights/)
+    
+    
 ## Новые сценарии
-
-Управление и защита цифрового контента
 
 Распознавание текста, лица и речи:
 * [Документация и API](https://www.microsoft.com/cognitive-services/en-us/documentation)
