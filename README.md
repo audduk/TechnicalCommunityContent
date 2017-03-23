@@ -6,7 +6,8 @@
 
 ## Современный бэкэнд приложения
 
-Контейнеры и микросервисы 
+Контейнеры и микросервисы:
+[Развертывание и работа с Docker-контейнерами при помощи Azure Container Service](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Open%20Dev%20Framework/Docker/Session%202%20-%20Hands%20On)
 
 PaaS и бессерверная архитектура 
 
@@ -17,5 +18,10 @@ PaaS и бессерверная архитектура
 
 Управление и защита цифрового контента
 
-Новая эра цифровых помощников — боты
+Эра цифровых помощников — боты
+
+Приложение нового поколения с Azure Machine Learning
+* [Инструкция с UWP - клиентом](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
+* [Инструкция с Electron - клиентом (Node.js)](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
+
 
