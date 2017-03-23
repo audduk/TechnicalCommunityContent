@@ -1,4 +1,4 @@
- # HoL for DevCon School: Modern Mobile & Web Development
+: # HoL for DevCon School: Modern Mobile & Web Development
 
 Практический обучающий контент для школы о современных методологиях и инструментах реализации мобильных и веб-проектов
 
@@ -22,22 +22,29 @@ PaaS и бессерверная архитектура:
 Тестирование и мониторинг приложений 
 
 ## Новые сценарии
-Распознавание лица и речи
+Распознавание текста, лица и речи
+* [Использование Cognitive Services для распознавания текста] (https://github.com/Microsoft/azure-docs/blob/master/articles/cognitive-services/cognitive-services-text-analytics-quick-start.md)
+* [Умный киоск и примеры сценариев] (https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
 Управление и защита цифрового контента
 
-Эра цифровых помощников — боты
+[Вступаем в эру цифровых помощников — боты](https://github.com/alyssaong1/Bot-Framework-HOL)
+    * [Документация] (https://docs.botframework.com/en-us/)
+    * [C# и JS примеры] (https://github.com/Microsoft/BotBuilder-Samples)
+    * [Примеры ботов] (https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples) 
 
-Приложение нового поколения с Azure Machine Learning:
-* [Инструкция с UWP - клиентом](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
-* [Инструкция с Electron - клиентом (Node.js)](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
+Приложения нового поколения с Azure Machine Learning:
+* [Инструкция с UWP - клиентом] (https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
+* [Инструкция с Electron - клиентом (Node.js)] (https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
+
+[Глубокое погружение в Azure Machine Learning] (https://github.com/Azure-Readiness/hol-azure-machine-learning)
 
 ## Кроссплатформенная разработка и мобильные приложения
 
-* [Создаем мобильный клиент на Xamarin.Forms](https://github.com/nishanil/Dev-Days-HOL/tree/master/01%20Dev-Labs)
+[Создаем мобильный клиент на Xamarin.Forms](https://github.com/nishanil/Dev-Days-HOL/tree/master/01%20Dev-Labs)
 
-* Подключаем мобильный-бэкэнд-как-сервис
-    * [Мобильный бэкэнд из коробки](https://github.com/nishanil/Dev-Days-HOL/tree/master/02%20Cloud-Labs/01%20EasyTables)
-    * [Мобильный бэкэнд на .NET](https://github.com/nishanil/Dev-Days-HOL/tree/master/02%20Cloud-Labs/02%20NetBackend)
+Подключаем мобильный-бэкэнд-как-сервис:
+* [Мобильный бэкэнд из коробки](https://github.com/nishanil/Dev-Days-HOL/tree/master/02%20Cloud-Labs/01%20EasyTables)
+* [Мобильный бэкэнд на .NET](https://github.com/nishanil/Dev-Days-HOL/tree/master/02%20Cloud-Labs/02%20NetBackend)
 
-* [Настраиваем DevOps для мобильных приложений](https://github.com/nishanil/Dev-Days-HOL/tree/master/03%20DevOps-Labs)
+[Настраиваем DevOps для мобильных приложений](https://github.com/nishanil/Dev-Days-HOL/tree/master/03%20DevOps-Labs)
