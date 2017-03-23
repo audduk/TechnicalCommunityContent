@@ -1,4 +1,4 @@
-# HoL for DevCon School: Modern Mobile & Web Development
+ # HoL for DevCon School: Modern Mobile & Web Development
 
 Практический обучающий контент для школы о современных методологиях и инструментах реализации мобильных и веб-проектов
 
@@ -11,9 +11,9 @@
 
 PaaS и бессерверная архитектура:
 * [Размещаем веб-сайт на Azure Web App (PHP + MySQL)](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Cloud%20Computing/Azure%20Web%20Apps/Session%202%20-%20Hands%20On)
-* Azure Functions - код который реагирует на события и не требует настройки серверов
-    *[Инструкция для C#](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Cloud%20Computing/Azure%20Functions/Session%202%20-%20Hands%20On/Azure%20Functions%20HOL%20(C%23).md) 
-    *[Инструкция для JS](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Cloud%20Computing/Azure%20Functions/Session%202%20-%20Hands%20On/Azure%20Functions%20HOL%20(JavaScript).md)
+* Azure Functions - код который реагирует на события и не требует настройки серверов:
+    * [Инструкция для C#](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Cloud%20Computing/Azure%20Functions/Session%202%20-%20Hands%20On/Azure%20Functions%20HOL%20(C%23).md) 
+    * [Инструкция для JS](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Cloud%20Computing/Azure%20Functions/Session%202%20-%20Hands%20On/Azure%20Functions%20HOL%20(JavaScript).md)
 
 
 
