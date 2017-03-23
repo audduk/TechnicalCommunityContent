@@ -15,7 +15,9 @@ PaaS и бессерверная архитектура:
     * [Инструкция для C#](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Cloud%20Computing/Azure%20Functions/Session%202%20-%20Hands%20On/Azure%20Functions%20HOL%20(C%23).md) 
     * [Инструкция для JS](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Cloud%20Computing/Azure%20Functions/Session%202%20-%20Hands%20On/Azure%20Functions%20HOL%20(JavaScript).md)
 
-
+* Работаем с PaaS - хранилищами:
+    * [Azure DocumentDB](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20DocumentDB/Session%202%20-%20Hands%20On)
+    * [Azure SQL Storage](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20SQL%20Database/Session%202%20-%20Hands%20On)
 
 Тестирование и мониторинг приложений 
 
