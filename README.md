@@ -7,6 +7,7 @@
 ## Современный бэкэнд приложения
 
 Контейнеры и микросервисы:
+* [Работаем с Docker в Azure](https://github.com/azuredk/docker-on-azure-hol/)
 * [Развертывание и работа с Docker-контейнерами при помощи Azure Container Service](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Open%20Dev%20Framework/Docker/Session%202%20-%20Hands%20On)
 
 PaaS и бессерверная архитектура:
@@ -27,7 +28,7 @@ PaaS и бессерверная архитектура:
 
 Распознавание текста, лица и речи:
 * [Документация и API](https://www.microsoft.com/cognitive-services/en-us/documentation)
-    *Зарегистрируйтесь по ссылке, получите доступ к примерам и пошаговым руководствам по каждому API на официальном портале
+    * Зарегистрируйтесь по ссылке, получите доступ к примерам и пошаговым руководствам по каждому API на официальном портале
 * [SDK и примеры](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample)
 * [Умный киоск и примеры сценариев](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
