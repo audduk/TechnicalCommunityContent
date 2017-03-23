@@ -16,19 +16,22 @@ PaaS и бессерверная архитектура:
     * [Инструкция для JS](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Cloud%20Computing/Azure%20Functions/Session%202%20-%20Hands%20On/Azure%20Functions%20HOL%20(JavaScript).md)
 
 * Работаем с PaaS - хранилищами:
-    * [Azure DocumentDB](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20DocumentDB/Session%202%20-%20Hands%20On)
+    * [Azure DocumentDB](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20DocumentDB/Session%202%20-%20Hands%20On))
     * [Azure SQL Storage](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20SQL%20Database/Session%202%20-%20Hands%20On)
 
-Тестирование и мониторинг приложений 
+Тестирование и мониторинг приложений: 
 
 ## Новые сценарии
-Распознавание текста, лица и речи
-* [Использование Cognitive Services для распознавания текста](https://github.com/Microsoft/azure-docs/blob/master/articles/cognitive-services/cognitive-services-text-analytics-quick-start.md)
-* [Умный киоск и примеры сценариев](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
 Управление и защита цифрового контента
 
-[Вступаем в эру цифровых помощников — боты]
+Распознавание текста, лица и речи:
+* [Документация и API](https://www.microsoft.com/cognitive-services/en-us/documentation)
+    *Зарегистрируйтесь по ссылке, получите доступ к примерам и пошаговым руководствам по каждому API на официальном портале
+* [SDK и примеры](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample)
+* [Умный киоск и примеры сценариев](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
+
+[Вступаем в эру новых цифровых помощников — боты]:
 * [Документация](https://docs.botframework.com/en-us/)
 * [Пошаговое руководство](https://github.com/alyssaong1/Bot-Framework-HOL)
 * [Материалы и примеры по теме искусственный интеллект в облаке](https://github.com/evangelism/ModernAI?files=1)
