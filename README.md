@@ -32,4 +32,12 @@ PaaS и бессерверная архитектура:
 * [Инструкция с UWP - клиентом](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
 * [Инструкция с Electron - клиентом (Node.js)](https://github.com/evangelism/TechnicalCommunityContent/blob/master/Big%20Data%20and%20Analytics/Azure%20Machine%20Learning/Session%202%20-%20Hands%20On/Azure%20Machine%20Learning%20HOL%20(UWP).md)
 
-## Кроссплатформенная разработка
+## Кроссплатформенная разработка и мобильные приложения
+
+* [Создаем мобильный клиент на Xamarin.Forms](https://github.com/nishanil/Dev-Days-HOL/tree/master/01%20Dev-Labs)
+
+* Подключаем мобильный-бэкэнд-как-сервис
+    * [Мобильный бэкэнд из коробки](https://github.com/nishanil/Dev-Days-HOL/tree/master/02%20Cloud-Labs/01%20EasyTables)
+    * [Мобильный бэкэнд на .NET](https://github.com/nishanil/Dev-Days-HOL/tree/master/02%20Cloud-Labs/02%20NetBackend)
+
+* [Настраиваем DevOps для мобильных приложений](https://github.com/nishanil/Dev-Days-HOL/tree/master/03%20DevOps-Labs)
