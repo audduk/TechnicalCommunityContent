@@ -1,4 +1,4 @@
-# HoL for DevCon School: Modern Mobile & Web Development*
+# HoL for DevCon School: Modern Mobile & Web Development
 
 Практический обучающий контент для школы о современных методологиях и инструментах реализации мобильных и веб-проектов
 
@@ -19,5 +19,3 @@ PaaS и бессерверная архитектура
 
 Новая эра цифровых помощников — боты
 
-
-* *based on Technical Community Content*
