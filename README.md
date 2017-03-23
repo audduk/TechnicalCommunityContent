@@ -21,7 +21,7 @@
     * [Azure DocumentDB](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20DocumentDB/Session%202%20-%20Hands%20On))
     * [Azure SQL Storage](https://github.com/evangelism/TechnicalCommunityContent/tree/master/Data/Azure%20SQL%20Database/Session%202%20-%20Hands%20On)
 
-**DevOps, тестирование и мониторинг приложений:**
+**DevOps и мониторинг приложений:**
 * [DevOps c VSTS, Jenkins и Docker](https://github.com/msdevno/hol-oss-devops)
 * Мониторинг приложений с Application Insights
     * [ASP.NET](https://github.com/Microsoft/azure-docs/blob/master/articles/application-insights/app-insights-asp-net.md) 
