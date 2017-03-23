@@ -32,7 +32,7 @@ PaaS и бессерверная архитектура:
 * [SDK и примеры](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample)
 * [Умный киоск и примеры сценариев](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
-[Вступаем в эру новых цифровых помощников — боты]:
+Вступаем в эру новых цифровых помощников — боты:
 * [Документация](https://docs.botframework.com/en-us/)
 * [Пошаговое руководство](https://github.com/alyssaong1/Bot-Framework-HOL)
 * [Материалы и примеры по теме искусственный интеллект в облаке](https://github.com/evangelism/ModernAI?files=1)
